@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poiret+One&family=Poppins:wght@200&family=Roboto:wght@300&display=swap');
+
+body{
+    background-size: cover;    
+    background-position: center;
+}
+
+.heading
+{
+    font-weight: bold;
+    font-family: 'Open sans',sans-serif;
+font-size: 30px;
+width: 100%;
+margin: 0px;
+color: white;
+}
+
+#status
+{
+color: transparent;
+}
+
+canvas{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;   border-radius: 10px;
+}
